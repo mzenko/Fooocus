@@ -1,0 +1,5 @@
+services:
+  fooocus:
+    image: mzenko/fooocus
+    build:
+      .
